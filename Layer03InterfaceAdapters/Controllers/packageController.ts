@@ -1,4 +1,4 @@
-export class PackageController() {
+export class PackageController {
     /*
         not implemented yet
 

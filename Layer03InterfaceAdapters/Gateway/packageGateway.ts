@@ -1,4 +1,4 @@
-export class PackageGateway() {
+export class PackageGateway {
     /*
         not implemented yet
 
