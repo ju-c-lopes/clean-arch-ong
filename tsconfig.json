@@ -5,10 +5,13 @@
     "strict": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
-    "forceConsistentCasingInFileNames": true
+    "forceConsistentCasingInFileNames": true,
+    "paths": {
+      "@/*": ["./*"]
+    }
   },
   "include": [
-    "Layer02UseCases/**/*.ts"
+    "./**/*.ts"
   ],
   "exclude": [
     "node_modules"
